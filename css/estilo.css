@@ -1,6 +1,6 @@
 body{
 
-	background-color: #00CED1;
+	background-color: #00BFFF;
 	color: #black; 
 	margin-left: 10%;
 	margin-right: 10%;
@@ -8,13 +8,36 @@ body{
 
 h1{
 
-	color: 	#4B0082;
+	color: 	#FFFAF0;
 	text-align: center;
+	font-family: Verdana
 }
 
 h2{
-	color: #fff;
+	color: #FFFAF0;
 	text-align: justify;
+	font-family: Verdana
 }
 
+p{
+	font-size: 22px;
+	text-align: justify;
+	font-family: Arial;
+}
 
+img{
+	width: 70%;
+}
+
+figure{
+
+	text-align: center;
+}
+
+ul{
+	font-size: 22px
+}
+
+figure{
+	text-align: center
+}
